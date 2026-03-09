@@ -2,7 +2,7 @@
 Hey there, this is my final project of IOS Mobile Development course from ABB Tech Academy.
 In the project I used UserNotification framework that i learned from the Apple Documentation and Gemini, also the PhotosUI
 
-I know that the project is simple and a little bit raw,but you have to know that much time has been spent only on learning by myself new frameworks. Thank you for listening!)
+I know that the project is simple and a little bit raw,but you have to know that much time has been spent only on learning by myself new frameworks + university takes a lot of time( . Thank you for listening!)
 
 This is a robust **Reminder Application** for iOS built using **Swift** and **UIKit**. It allows users to create tasks, set specific dates and times for notifications, attach photos from their library, and manage their productivity with a clean, modern interface.
 
