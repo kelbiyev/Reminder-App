@@ -88,19 +88,14 @@ This project was developed using the following official Apple documentation and 
 
 1. **Clone the repository**:
 ```bash
-git clone [your-repo-link]
+git clone https://github.com/kelbiyev/Reminder-App.git
 
 ```
 
 
-2. **Install Dependencies**: This project uses **SnapKit**. Ensure you have [CocoaPods](https://cocoapods.org) installed, then run:
-```bash
-pod install
-
-```
+2. **Install Dependencies**: This project uses **SnapKit**. Ensure you have [SnapKit]([https://cocoapods.org](https://github.com/SnapKit/SnapKit)) installed
 
 
 3. **Open the Project**: Open `ReminderApp.xcworkspace` in Xcode.
 4. **Run**: Select your preferred simulator and press **Cmd + R**.
 
-Would you like me to add a section on how to handle image deletion when a reminder is removed?
