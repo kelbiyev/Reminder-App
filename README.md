@@ -5,7 +5,7 @@ This is a robust **Reminder Application** for iOS built using **Swift** and **UI
 
 ---
 
-## ## Key Features
+## Key Features
 
 * **Task Management**: Create, edit, and delete reminders with ease.
 * **Local Notifications**: Automated alerts for upcoming tasks using `UserNotifications`.
@@ -16,7 +16,7 @@ This is a robust **Reminder Application** for iOS built using **Swift** and **UI
 
 ---
 
-## ## Project Structure
+## Project Structure
 
 | File | Responsibility |
 | --- | --- |
@@ -29,11 +29,11 @@ This is a robust **Reminder Application** for iOS built using **Swift** and **UI
 
 ---
 
-## ## Workflow & Implementation (Bash Logic)
+## Workflow & Implementation (Bash Logic)
 
 While this is a GUI-based iOS app, the logic flow of the methods can be visualized through the following sequences.
 
-### ### 1. Saving a Reminder with an Image
+### 1. Saving a Reminder with an Image
 
 When `saveTapped()` is called in `AddReminderViewController`, the following logic occurs:
 
@@ -53,7 +53,7 @@ add_request_to_UNUserNotificationCenter
 
 ```
 
-### ### 2. Loading Data on App Launch
+### 2. Loading Data on App Launch
 
 When `ReminderListViewController` loads, it triggers the `DataManager`:
 
@@ -69,7 +69,7 @@ reload_tableView_data
 
 ---
 
-## ## Technical Documentation & References
+## Technical Documentation & References
 
 This project was developed using the following official Apple documentation and technical guides:
 
@@ -84,7 +84,7 @@ This project was developed using the following official Apple documentation and 
 
 ---
 
-## ## Getting Started
+## Getting Started
 
 1. **Clone the repository**:
 ```bash
